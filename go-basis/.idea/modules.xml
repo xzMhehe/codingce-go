@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/codingce-go.iml" filepath="$PROJECT_DIR$/.idea/codingce-go.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/go-basis.iml" filepath="$PROJECT_DIR$/.idea/go-basis.iml" />
     </modules>
   </component>
 </project>
